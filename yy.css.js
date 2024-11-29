@@ -19,7 +19,7 @@ yy.css = (function() {
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 body {
-  background-image: url('background.png');
+  /* background-image: url('background.png'); */
   background-size : cover;
 }
 
